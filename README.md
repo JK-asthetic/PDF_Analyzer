@@ -1,10 +1,6 @@
-Sure! Here's a detailed README file for your GitHub repository:
-
----
-
 # PDF Analyzer Chatbot
 
-![Project Banner](recording.mp3)
+![Project Banner](Image.png)
 
 ## Overview
 
